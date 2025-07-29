@@ -1,8 +1,8 @@
 {
   "name": "my-portfolio",
   "version": "0.1.0",
-  "homepage": "https://sirireddy1205.github.io",
   "private": true,
+  "homepage": "https://sirireddy1205.github.io",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.4",
